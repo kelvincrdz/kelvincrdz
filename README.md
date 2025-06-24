@@ -1,7 +1,7 @@
 # Olá! Eu sou o Kelvin 👋🏻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=600&lines=Senior+AI+%26+LLM+Developer;Python+%7C+Azure+%7C+LangChain+%7C+RAG+Systems;Microsoft+Stack+Specialist;Transformando+neg%C3%B3cios+com+IA!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=600&lines=Pleno+AI+%26+LLM+Developer;Python+%7C+Azure+%7C+LangChain+%7C+RAG+Systems;Microsoft+Stack+Specialist;Transformando+neg%C3%B3cios+com+IA!" alt="Typing SVG" />
 </div>
 
 ## Sobre mim
